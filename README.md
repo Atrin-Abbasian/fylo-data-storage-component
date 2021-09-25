@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- GitHub URL: [GitHub Repository]()
-- Live Site URL: [GitHub Pages]()
+- GitHub URL: [GitHub Repository](https://github.com/Atrin-Abbasian/fylo-data-storage-component)
+- Live Site URL: [GitHub Pages](https://atrin-abbasian.github.io/fylo-data-storage-component)
 
 ## My process
 
